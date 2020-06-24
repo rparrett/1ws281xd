@@ -9,7 +9,7 @@
 #include <string.h>
 #include <sys/stat.h>
 #include <unistd.h>
-#include "../rpi_ws281x/ws2811.h"
+#include "lib/rpi_ws281x/ws2811.h"
 
 static char VERSION[] = "0.1";
 
